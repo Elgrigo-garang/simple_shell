@@ -1,1 +1,1 @@
-0x16 c - simple shell
+0x16 c - simple shel colaboratorsl
